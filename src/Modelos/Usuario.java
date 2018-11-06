@@ -51,15 +51,6 @@ public class Usuario extends Persona {
         this.contrasena = contrasena;
     }
 
-    public void MostrarValores() {
-        System.out.println(nombre + " "
-                + apellido + " "
-                + telefono + " "
-                + direccion + " "
-                + email + " "
-                + nombreUsuario);
-    }
-
     // Nuevo método para ver si dos usuarios son iguales.
     public boolean equals(Object otroUsuario) {
         Usuario usuario = (Usuario) otroUsuario;
