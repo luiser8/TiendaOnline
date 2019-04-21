@@ -12,14 +12,15 @@ import javax.swing.JFrame;
 
 /**
  *
- * @author Maidelys Dominguez y Dorelba Rivero
+ * @author Luis Rondon
  */
 public class Usuario extends Persona {
 
     protected String nombreUsuario;
     protected String contrasena;
-    private String Usuarios[] = {"Maidelys", "Dorelba"};
+    private String Usuarios[] = {"Luis", "Rondon"};
     private String Contrasenas[] = {"clave1", "clave2"};
+    
     
     public Usuario() {
     }

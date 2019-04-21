@@ -11,7 +11,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author Maidelys Dominguez y Dorelba Rivero
+ * @author Luis Rondon
  */
 public class Producto extends Operaciones{
     private ArrayList<Producto> arrayListProductos;

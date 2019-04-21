@@ -7,7 +7,7 @@ package Modelos;
 
 /**
  *
- * @author Maidelys Dominguez y Dorelba Rivero
+ * @author Luis Rondon
  */
 public class Persona {
 

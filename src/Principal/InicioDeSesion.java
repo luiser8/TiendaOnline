@@ -9,7 +9,7 @@ import Modelos.Usuario;
 
 /**
  *
- * @author  Maidelys Dominguez y Dorelba Rivero
+ * @author  Luis Rondon
  */
 public class InicioDeSesion extends javax.swing.JFrame {
 

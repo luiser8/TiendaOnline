@@ -11,7 +11,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author Maidelys Dominguez y Dorelba Rivero
+ * @author Luis Rondon
  */
 public class Factura extends Operaciones{
     private ArrayList<Factura> arrayListFacturas;

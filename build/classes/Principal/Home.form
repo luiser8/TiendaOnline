@@ -53,13 +53,13 @@
           <Group type="102" attributes="0">
               <EmptySpace min="-2" pref="31" max="-2" attributes="0"/>
               <Component id="jLabel1" min="-2" pref="262" max="-2" attributes="0"/>
-              <EmptySpace max="32767" attributes="0"/>
+              <EmptySpace pref="298" max="32767" attributes="0"/>
           </Group>
           <Group type="102" attributes="0">
-              <Component id="jLabel2" min="-2" pref="97" max="-2" attributes="0"/>
+              <Component id="jLabel2" min="-2" pref="113" max="-2" attributes="0"/>
               <EmptySpace type="separate" max="-2" attributes="0"/>
-              <Component id="jLabel3" min="-2" pref="225" max="-2" attributes="0"/>
-              <EmptySpace min="0" pref="251" max="32767" attributes="0"/>
+              <Component id="jLabel3" min="-2" pref="209" max="-2" attributes="0"/>
+              <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
           </Group>
       </Group>
     </DimensionLayout>
@@ -96,7 +96,7 @@
     </Component>
     <Component class="javax.swing.JLabel" name="jLabel3">
       <Properties>
-        <Property name="text" type="java.lang.String" value="Maidelys Dominguez y Dorelba Rivero"/>
+        <Property name="text" type="java.lang.String" value="Luis Rondon"/>
       </Properties>
     </Component>
   </SubComponents>

@@ -9,7 +9,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author Maidelys Dominguez y Dorelba Rivero
+ * @author Luis Rondon
  */
 public abstract class Operaciones {
     public abstract ArrayList Agregar(Object object);
